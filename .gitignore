@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+results/
+models/
+.tf5/
+logs/
+test_uchun_ddoklar/
+ground_truth.json
